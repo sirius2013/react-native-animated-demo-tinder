@@ -1,4 +1,4 @@
-'use strict';
+'use strict'; //fix issue
 
 import React, { AppRegistry, StyleSheet, Text, View, Animated, Component, PanResponder, } from 'react-native';
 import clamp from 'clamp';
